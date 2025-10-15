@@ -59,22 +59,8 @@ Add endpoints for summarization and classification.
 
 ---
 
-## 🧱 4. Project Structuring Prompt
 
-**Prompt:**
-Organize the backend and frontend structure for scalability.
-Include a modern Material-UI React dashboard for managing tickets.
-Add routing for dashboard, tickets, and profile pages.
-
-
-**Cline Actions:**
-- Generated routes and pages for React client
-- Integrated Material-UI and React Router
-- Created a dashboard with ticket summary view
-
----
-
-## 🧩 5. ChatGPT Guidance Prompts
+## 🧩 4. ChatGPT Guidance Prompts
 
 In addition to Cline, I used ChatGPT (GPT-5) to:
 - Design the overall project architecture
